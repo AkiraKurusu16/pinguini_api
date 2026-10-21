@@ -1,0 +1,2 @@
+**THIS REPOSITORY WAS MADE FOR SCHOOL PURPOSES, IF YOU'RE CURIOUS YOU CAN CHECK IT**
+It talks about API's Machine learning and training.
